@@ -1,6 +1,6 @@
 # SwitchEmulationLinux
 
-A guide to switch emulation for people on Linux
+A guide to switch emulation for people on Linux. Associated with 128bb, written by RMED24
 
 ## Guides
 
