@@ -2,6 +2,8 @@
 
 A guide to switch emulation for people on Linux. Associated with 128bb, written by RMED24
 
+If you would like support, we recommend you join our [Discord](https://discord.gg/NF38g3ENVc)
+
 ## Guides
 
 Since all 3 vendors have relatively decent drivers, there's no particular emulator that performs better on each vendor. However, we would personally recommend Ryujinx.
